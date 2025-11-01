@@ -639,5 +639,9 @@
     "name": "Breakout Brick Game",
     "description": "Classic brick breaker game using HTML, CSS, and JavaScript with paddle and ball controls"
 }
-
+{
+  "id": 129,
+    "name": "Habit Tracker",
+    "description": "Keep a track of your habits using Habit Tracker."
+}
 ]
